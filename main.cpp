@@ -1331,7 +1331,7 @@ int main() {
     bool isOMPModelTrained = false; // Add OpenMP flag
     bool isCUDAModelTrained = false;
 
-    std::string baseDatasetPath = "D:/TARUMT/DSPC/imageDataset";
+    std::string baseDatasetPath = "./imageDataset";
     std::string imageFolderPath = "";
     std::string labelPath = "";
     int selectedDatasetSize = 0;

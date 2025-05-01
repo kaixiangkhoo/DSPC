@@ -1,0 +1,44 @@
+﻿  main.cpp
+D:\TARUMT\DSPC\CUDACNN.h(39,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\TARUMT\DSPC\main.cpp(473,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\TARUMT\DSPC\main.cpp(687,61): warning C4267: 'argument': conversion from 'size_t' to '_Tp', possible loss of data
+D:\TARUMT\DSPC\main.cpp(687,61): warning C4267:         with
+D:\TARUMT\DSPC\main.cpp(687,61): warning C4267:         [
+D:\TARUMT\DSPC\main.cpp(687,61): warning C4267:             _Tp=int
+D:\TARUMT\DSPC\main.cpp(687,61): warning C4267:         ]
+D:\TARUMT\DSPC\main.cpp(687,50): warning C4267: 'argument': conversion from 'size_t' to '_Tp', possible loss of data
+D:\TARUMT\DSPC\main.cpp(687,50): warning C4267:         with
+D:\TARUMT\DSPC\main.cpp(687,50): warning C4267:         [
+D:\TARUMT\DSPC\main.cpp(687,50): warning C4267:             _Tp=int
+D:\TARUMT\DSPC\main.cpp(687,50): warning C4267:         ]
+D:\TARUMT\DSPC\main.cpp(693,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\TARUMT\DSPC\main.cpp(693,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\TARUMT\DSPC\main.cpp(893,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\TARUMT\DSPC\main.cpp(893,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\TARUMT\DSPC\main.cpp(972,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\TARUMT\DSPC\main.cpp(972,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\TARUMT\DSPC\main.cpp(1165,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\TARUMT\DSPC\main.cpp(1165,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\TARUMT\DSPC\main.cpp(1267,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\TARUMT\DSPC\main.cpp(1267,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\TARUMT\DSPC\main.cpp(1419,25): warning C4150: deletion of pointer to incomplete type 'ParallelCNN'; no destructor called
+  D:\TARUMT\DSPC\omp.h(13,7):
+  see declaration of 'ParallelCNN'
+  
+D:\TARUMT\DSPC\main.cpp(1603,35): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+D:\TARUMT\DSPC\main.cpp(1603,35): warning C4244:         with
+D:\TARUMT\DSPC\main.cpp(1603,35): warning C4244:         [
+D:\TARUMT\DSPC\main.cpp(1603,35): warning C4244:             _Rep=double
+D:\TARUMT\DSPC\main.cpp(1603,35): warning C4244:         ]
+D:\TARUMT\DSPC\main.cpp(1615,35): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+D:\TARUMT\DSPC\main.cpp(1615,35): warning C4244:         with
+D:\TARUMT\DSPC\main.cpp(1615,35): warning C4244:         [
+D:\TARUMT\DSPC\main.cpp(1615,35): warning C4244:             _Rep=double
+D:\TARUMT\DSPC\main.cpp(1615,35): warning C4244:         ]
+D:\TARUMT\DSPC\main.cpp(1758,17): warning C4150: deletion of pointer to incomplete type 'ParallelCNN'; no destructor called
+  D:\TARUMT\DSPC\omp.h(13,7):
+  see declaration of 'ParallelCNN'
+  
+  DSPC.vcxproj -> D:\TARUMT\DSPC\x64\Debug\DSPC.exe
